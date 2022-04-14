@@ -1,0 +1,5 @@
+Site desenvolvido com HTML5, CSS e JS:
+
+@média comando que permite realizar condicionais para adequação das telas.
+Comandos
+Clonar linhas: comando alt+shift+tecla down
